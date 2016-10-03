@@ -1,4 +1,4 @@
-from find_zero import count_zero_rows
+from count import count_zero_rows
 
 assert(count_zero_rows('small-01.csv') == 2)
 assert(count_zero_rows('small-02.csv') == 0)
