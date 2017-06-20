@@ -41,3 +41,5 @@ def count_zero_rows(filename):
             num_zero_rows = num_zero_rows + 1
 
     return num_zero_rows
+
+print(count_zero_rows(filename))
