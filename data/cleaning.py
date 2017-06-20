@@ -42,4 +42,4 @@ def count_zero_rows(filename):
 
     return num_zero_rows
 
-print(count_zero_rows(filename))
+print(count_zero_rows("inflammation-01.csv"))
